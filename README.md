@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MmUh98
-- 👀 I’m interested in 
+- 👀 I’m interested in learning AI 
 - 🌱 I’m currently doing Bachelor in Atrificial intelligence.
 - 💞️ I’m looking to collaborate on machine learning, deep learning, computer vision and neural networks.
 - 📫 you can reach me at muhammadmunsoorulhaq@gmail.com
