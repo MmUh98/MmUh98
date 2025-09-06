@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @MUHAMMAD
-- 👀 I’m interested in learning AI 
-- 🌱 I’m currently doing Bachelor in Atrificial intelligence.
-- 💞️ I’m looking to collaborate on machine learning, deep learning, computer vision and neural networks.
+👋 Hi, I’m Muhammad Mansoor Ul Haq
+💻 Interested in Machine Learning, Generative AI, and Web Development
+🛠️ Skills: Python · JavaScript/TypeScript · SQL · React · Next.js · LangChain · Streamlit
+📌 Projects:
+
+🌱 Currently learning: Generative AI workflows & deployment practices
+🤝 Open to collaborations on AI, ML, and web-based projects
 - 📫 you can reach me at muhammadmunsoorulhaq@gmail.com
 
 <!---
